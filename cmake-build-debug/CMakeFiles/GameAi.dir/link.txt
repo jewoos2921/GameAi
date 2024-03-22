@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/GameAi.dir/main.cpp.o CMakeFiles/GameAi.dir/ChokudaiSearch.cpp.o -o GameAi 

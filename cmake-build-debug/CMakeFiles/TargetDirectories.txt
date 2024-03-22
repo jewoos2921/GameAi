@@ -1,0 +1,3 @@
+/mnt/c/Users/jewoo/CLionProjects/GameAi/cmake-build-debug/CMakeFiles/GameAi.dir
+/mnt/c/Users/jewoo/CLionProjects/GameAi/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/jewoo/CLionProjects/GameAi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
